@@ -21,5 +21,3 @@ Le dépôt contient :
 3. S'assurer que la configuration est en `Debug` et la plateforme en `x64`
 4. Lancer l'exécution
 
-> 💬 Remarque : Tous les chemins vers les fichiers ressources sont en **chemins relatifs**, donc aucun problème de compatibilité.
-
